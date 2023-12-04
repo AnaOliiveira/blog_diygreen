@@ -1,0 +1,11 @@
+@import "nav.css";
+
+.hero-section {
+  width: 100%;
+  background-size: cover;
+  height: calc(100vh - 120px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
