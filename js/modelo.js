@@ -7,7 +7,7 @@ let modeloJson = [
       },
       {
         id: 2,
-        name: 'Flor com rolo de papel',
+        name: 'Flor com rolo de papel higienico',
         img: 'img/flor.png',
         link: 'https://www.youtube.com/watch?v=sExZdQ9T4LE',
       },
